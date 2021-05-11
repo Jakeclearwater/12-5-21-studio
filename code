@@ -2,5 +2,8 @@ Test
 jake
 yep works
 luke
+<<<<<<< HEAD
 
 luke be on line 6
+=======
+>>>>>>> f15c002ad3f8022b273a2d785545a4b86497bd43
